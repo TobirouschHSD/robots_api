@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "robots_api", "robots_api.vbproj", "{0AD1324B-76F5-464B-90E0-FF55232A04CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AD1324B-76F5-464B-90E0-FF55232A04CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD1324B-76F5-464B-90E0-FF55232A04CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD1324B-76F5-464B-90E0-FF55232A04CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD1324B-76F5-464B-90E0-FF55232A04CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73D2659C-227A-4132-91EE-120F578B3F83}
+	EndGlobalSection
+EndGlobal
